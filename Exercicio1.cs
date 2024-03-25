@@ -11,6 +11,8 @@ class Program{
             
         }
         else{
+        Console.writeLine("teste git");
+
            Console.WriteLine($"o numero {numero} não é par");
             
             
